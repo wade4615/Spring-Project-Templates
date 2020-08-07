@@ -1,4 +1,4 @@
-package com.wade.spring.example1;
+package com.wade.spring.mvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.baeldung.annotations;
+package com.wade.spring.boot.annotations;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnWebApplication;
 import org.springframework.context.annotation.Configuration;

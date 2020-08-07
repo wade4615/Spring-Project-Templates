@@ -1,4 +1,4 @@
-package com.baeldung.annotations;
+package com.wade.spring.boot.annotations;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

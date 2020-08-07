@@ -1,4 +1,4 @@
-package com.baeldung.annotations;
+package com.wade.spring.boot.annotations;
 
 import org.springframework.beans.factory.annotation.Required;
 import org.springframework.context.annotation.DependsOn;

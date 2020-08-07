@@ -1,4 +1,4 @@
-package com.baeldung.annotations;
+package com.wade.spring.boot.annotations;
 
 import java.util.Properties;
 

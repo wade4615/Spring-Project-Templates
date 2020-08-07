@@ -1,4 +1,4 @@
-package com.baeldung.annotations;
+package com.wade.spring.boot.annotations;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

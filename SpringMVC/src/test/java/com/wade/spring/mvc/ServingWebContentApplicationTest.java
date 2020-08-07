@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.wade.spring.example1;
+package com.wade.spring.mvc;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -26,7 +26,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.test.web.servlet.MockMvc;
 
-import com.wade.spring.example1.GreetingController;
+import com.wade.spring.mvc.GreetingController;
 
 @WebMvcTest(controllers = GreetingController.class)
 public class ServingWebContentApplicationTest {
