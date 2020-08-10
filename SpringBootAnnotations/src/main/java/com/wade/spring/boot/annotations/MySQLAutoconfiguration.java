@@ -27,7 +27,7 @@ public class MySQLAutoconfiguration {
     LocalContainerEntityManagerFactoryBean entityManagerFactory() throws IOException {
       final LocalContainerEntityManagerFactoryBean em = new LocalContainerEntityManagerFactoryBean();
       em.setDataSource(dataSource());
-      em.setPackagesToScan(new String[] { "com.baeldung.persistence.model" });
+      em.setPackagesToScan(new String[] { "com.wade" });
  
       final JpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();
       em.setJpaVendorAdapter(vendorAdapter);
