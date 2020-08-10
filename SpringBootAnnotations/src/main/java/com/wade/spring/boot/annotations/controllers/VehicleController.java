@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-import com.wade.spring.boot.annotations.Car;
-import com.wade.spring.boot.annotations.Vehicle;
+import com.wade.spring.boot.annotations.persistence.Car;
+import com.wade.spring.boot.annotations.persistence.Vehicle;
 
 @Controller
 @RequestMapping(value = "/vehicles", method = RequestMethod.GET)

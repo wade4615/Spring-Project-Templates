@@ -1,4 +1,4 @@
-package com.wade.spring.boot.annotations;
+package com.wade.spring.boot.annotations.configuration;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.Bean;
@@ -9,6 +9,8 @@ import org.springframework.context.annotation.Lazy;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.annotation.EnableScheduling;
+
+import com.wade.spring.boot.annotations.persistence.Engine;
 
 @Configuration
 @ComponentScan(basePackages = "com.baeldung.annotations")

@@ -1,4 +1,4 @@
-package com.wade.spring.boot.annotations;
+package com.wade.spring.boot.annotations.configuration;
 
 import java.util.Properties;
 

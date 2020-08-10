@@ -1,4 +1,4 @@
-package com.wade.spring.boot.annotations;
+package com.wade.spring.boot.annotations.persistence;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
