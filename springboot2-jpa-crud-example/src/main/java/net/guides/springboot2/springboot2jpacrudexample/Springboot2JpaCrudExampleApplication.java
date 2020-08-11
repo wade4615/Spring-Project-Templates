@@ -1,12 +1,13 @@
-package com.example.accessingdatamysql;
+package net.guides.springboot2.springboot2jpacrudexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AccessingDataMysqlApplication {
+public class Springboot2JpaCrudExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AccessingDataMysqlApplication.class, args);
+		SpringApplication.run(Springboot2JpaCrudExampleApplication.class, args);
 	}
+
 }
