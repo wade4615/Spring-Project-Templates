@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.exception;
+package com.wade.spring.boot.jpa.crud.exception;
 
 import java.util.Date;
 

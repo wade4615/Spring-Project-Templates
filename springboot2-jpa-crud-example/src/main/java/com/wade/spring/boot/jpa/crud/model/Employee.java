@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample.model;
+package com.wade.spring.boot.jpa.crud.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

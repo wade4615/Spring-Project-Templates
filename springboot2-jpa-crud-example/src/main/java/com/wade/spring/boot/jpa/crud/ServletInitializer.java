@@ -1,4 +1,4 @@
-package net.guides.springboot2.springboot2jpacrudexample;
+package com.wade.spring.boot.jpa.crud;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
